@@ -1,4 +1,4 @@
-# 🧠 KernelCraft Lite
+# 🧠 KernelCraft
 
 **KernelCraft Lite** is an interactive Triton-based GPU kernel visualizer and profiler for AI/LLM inference. It showcases essential operations used in Transformers—like Softmax, LayerNorm, and GELU—executed on GPU via custom Triton kernels.
 
